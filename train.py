@@ -99,7 +99,7 @@ print('Number of training images: ', len(train_dataset))
 # where to save model
 ##################################
 
-log_dir = 'results'
+log_dir = 'weights'
 if not os.path.exists(log_dir):
     os.makedirs(log_dir)
 
