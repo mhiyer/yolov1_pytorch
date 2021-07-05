@@ -26,8 +26,8 @@ warnings.filterwarnings("ignore", category=UserWarning)
 #########################
 
 # Path to data dir.
-train_image_dir = '/home/mithila/det_projs/data/VOC2012/JPEGImages'
-test_image_dir  = '/home/mithila/det_projs/data/VOC2007/JPEGImages'
+train_image_dir = 'data/VOC2012/JPEGImages'
+test_image_dir  = 'data/VOC2007/JPEGImages'
 
 # Path to label files.
 train_label = 'data/voc2012.txt'
