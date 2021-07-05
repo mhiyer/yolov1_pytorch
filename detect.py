@@ -281,7 +281,7 @@ class YOLODetector:
 
 if __name__ == '__main__':
     # Paths to input/output images.
-    image_path = '0032.jpg'
+    image_path = 'car.jpg'
     out_path = 'result.png'
     # Path to the yolo weight.
     model_path = 'weights/model_best.pth'
