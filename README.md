@@ -12,5 +12,6 @@ The model backbone is ResNet50.
 There are some modifications in terms of recording train and test history.  
 Use train.py to train, and detect.py to perform detection with desired images.  
 
-![alt text](https://github.com/mhiyer/yolov1_pytorch/main/result.jpg?raw=true)
+![](contents/result.jpg)
+
 
